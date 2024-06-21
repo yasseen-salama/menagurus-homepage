@@ -1,16 +1,13 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Supporting MENA's bright minds
+image: /img/cvigq.jpeg
+heading: Supporting MENA's bright minds
+subheading: one pitch at a time
 mainpitch:
-  title: Why Kaldi
+  title: Why MENA Gurus?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We are an angel investment group comprising eight seasoned investors from Egypt and Saudi Arabia, each with over 25 years of experience in IT. We invest our personal funds and leverage our extensive network to support promising startups across MENA. Our focus lies in the fintech and healthtech sectors. 
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
