@@ -3,7 +3,7 @@ templateKey: index-page
 title: Supporting MENA's Bright Minds
 image: /img/cvigq.jpeg
 heading: ________________________
-subheading: one pitch at a time!
+subheading: one pitch at a time
 mainpitch:
   title: Who are MENA Gurus?
   description: >
